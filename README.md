@@ -17,5 +17,3 @@ This project showcases:
 - **Destruction** – `@PreDestroy`, `DisposableBean`, custom destroy methods
 
 ---
-
-## 🔹 Project Structure
